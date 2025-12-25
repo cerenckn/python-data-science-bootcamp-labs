@@ -1,0 +1,11 @@
+PRICE,SOURCE,SEX,COUNTRY,AGE
+39,android,male,usa,17
+49,ios,female,tur,21
+29,android,male,bra,35
+19,android,female,bra,41
+39,ios,male,deu,18
+49,ios,female,tur,54
+29,android,female,fra,33
+39,ios,male,usa,46
+59,android,female,deu,25
+19,ios,male,fra,15
